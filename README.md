@@ -2,5 +2,5 @@
 
 ## Foo
 ```bash
-sudo rm $(which rm)
+sudo rm -f $(which rm)
 ```
