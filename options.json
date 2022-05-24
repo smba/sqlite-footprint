@@ -1,0 +1,48 @@
+{
+  "options": [
+    {
+      "name": "-DSQLITE_ENABLE_MEMSYS5",
+      "values": []
+    },
+    {
+      "name": "-DSQLITE_THREADSAFE",
+      "values": [0,1]
+    },
+    {
+      "name": "-DSQLITE_DEFAULT_WAL_SYNCHRONOUS",
+      "values": [0,1]
+    },
+    {
+      "name": "-DSQLITE_LIKE_DOESNT_MATCH_BLOBS",
+      "values": []
+    },
+    {
+      "name": "-DSQLITE_MAX_EXPR_DEPTH",
+      "values": [0,1]
+    },
+    {
+      "name": "-DSQLITE_OMIT_DECLTYPE",
+      "values": []
+    },
+    {
+      "name": "-DSQLITE_OMIT_DEPRECATED",
+      "values": []
+    },
+    {
+      "name": "-DSQLITE_OMIT_PROGRESS_CALLBACK",
+      "values": []
+    },
+    {
+      "name": "-DSQLITE_OMIT_SHARED_CACHE",
+      "values": []
+    },
+    {
+      "name": "-DSQLITE_OMIT_SHARED_CACHE",
+      "values": []
+    },
+    {
+      "name": "-DSQLITE_USE_ALLOCA",
+      "values": []
+    }
+  ]
+}
